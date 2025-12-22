@@ -1,0 +1,10 @@
+body {
+    background-image: url("OB\ campus.jpg") ;
+    background-position: repeat;
+}
+
+.container{
+    display: grid; 
+    grid-template-columns: repeat(2, 1fr);
+    flex-wrap: wrap;
+}
