@@ -37,7 +37,7 @@ h1 {
 }
 
 h3 {
-    font-family: 'Gill Sans', sans-serif;
+    font-family: 'Gill Sans';
     font-weight: 600;
 }
 
@@ -54,4 +54,5 @@ p {
 .row {
     border: none;
 }
+
 
