@@ -1,5 +1,5 @@
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+    font-family: 'Gill Sans ;
     margin: 0;
     padding: 0;
     color: #333;
@@ -54,5 +54,6 @@ p {
 .row {
     border: none;
 }
+
 
 
